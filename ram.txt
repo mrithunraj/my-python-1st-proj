@@ -1,0 +1,6 @@
+
+ school name:britto
+ student name:ram
+ student marks ram:99
+ subject name
+ student address

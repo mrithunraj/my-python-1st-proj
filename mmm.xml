@@ -1,0 +1,20 @@
+<school name="patricks">
+    <class name="12">
+       <name> mrithun</name>
+       <age>17</age>
+       <subject> accounts</subject>
+    </class>
+
+    <class name="12">
+       <name> akila</name>
+       <age>15</age>
+       <subject> commerce</subject>
+    </class>
+
+    <class name="12">
+       <name> jk</name>
+       <age>19</age>
+       <subject> economic</subject>
+    </class>
+
+</school>    

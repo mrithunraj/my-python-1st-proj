@@ -1,0 +1,6 @@
+
+ school name:loyalo
+ student name:mruthun
+ student marks mruthun:44
+ subject name
+ student address
