@@ -8,7 +8,7 @@ if database:
 cur=database.cursor()
 
 '''d="CREATE DATABASE king"
-123456778
+
 cur.execute(d)'''
 
 tab="CREATE TABLE phone(name VARCHAR(100),price INT,quantity TEXT)"
